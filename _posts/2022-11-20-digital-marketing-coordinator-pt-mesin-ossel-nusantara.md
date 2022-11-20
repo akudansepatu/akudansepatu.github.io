@@ -20,10 +20,15 @@ Dilansir dari laman [UDINUS Career Center](https://cc.dinus.ac.id/lowongan/detai
 |  |  |
 |-------------|-------------|
 | Perusahaan | : PT. Mesin OSSEL Nusantara |
+|  |  |
 | Jurusan | : Min. SMK Jurusan Desain |
+|  |  |
 | Jabatan | : Marketing |
+|  |  |
 | Sektor | : Mesin / Peralatan |
+|  |  |
 | Batas Akhir | : 30 November 2022 |
+|  |  |
 | Formasi | : 1 orang |
 |  |  |
 
