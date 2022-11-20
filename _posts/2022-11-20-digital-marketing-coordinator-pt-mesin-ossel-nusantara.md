@@ -16,21 +16,11 @@ Dilansir dari laman [UDINUS Career Center](https://cc.dinus.ac.id/lowongan/detai
 
 | Perusahaan: | PT. Mesin OSSEL Nusantara |
 |-------------|-------------|
-
 | Jurusan: | Min. SMK Jurusan Desain |
-|-------------|-------------|
-
 | Jabatan: | Marketing |
-|-------------|-------------|
-
 | Sektor: | Mesin / Peralatan |
-|-------------|-------------|
-
 | Batas Akhir: | 30 November 2022 |
-|-------------|-------------|
-
 | Jumlah yang dibutuhkan: | 1 orang |
-|-------------|-------------|
 
 ![info loker OSSEL]({{ site.baseurl }}/images/14_11_2022-09_46_50Digital Marketing Coordinator.jpg)
 
