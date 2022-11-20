@@ -5,7 +5,10 @@ author: Pak Budi
 date: 2022-11-19 08:00:00 +07:00
 ---
 
-**OSSEL®** merupakan sebuah brand nasional yang sedang berkembang di Indonesia sebagai penyedia produk-produk mesin dan alat teknik. OSSEL menyediakan produk mesin dan alat teknik dengan standar internasional yang mencakup bidang Food Machinery & Packaging, Power Tools, dan General machinery.
+**OSSEL®** merupakan sebuah brand nasional yang sedang berkembang di Indonesia sebagai penyedia produk-produk mesin dan alat teknik.
+
+OSSEL menyediakan produk mesin dan alat teknik dengan standar internasional yang mencakup bidang Food Machinery & Packaging, Power Tools, dan General machinery.
+
 Produk-Produk OSSEL didukung  pabrik berstandar ISO 9001, CCS, GS, TUV. Profil perusahaan selengkapnya dapat [dicek di sini](https://osselpowermachine.com/about-us).
 
 ![logo OSSEL]({{ site.baseurl }}/images/526c8-logo-ossel.png)
@@ -21,7 +24,8 @@ Dilansir dari laman [UDINUS Career Center](https://cc.dinus.ac.id/lowongan/detai
 | Jabatan | : Marketing |
 | Sektor | : Mesin / Peralatan |
 | Batas Akhir | : 30 November 2022 |
-| Jumlah yang dibutuhkan | : 1 orang |
+| Formasi | : 1 orang |
+|  |  |
 
 ![info loker OSSEL]({{ site.baseurl }}/images/14_11_2022-09_46_50Digital Marketing Coordinator.jpg)
 
