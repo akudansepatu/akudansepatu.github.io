@@ -14,13 +14,14 @@ Dilansir dari laman [UDINUS Career Center](https://cc.dinus.ac.id/lowongan/detai
 
 ## Posisi: Digital Marketing Coordinator (SEMARANG) ##
 
-| Perusahaan: | PT. Mesin OSSEL Nusantara |
+|  |  |
 |-------------|-------------|
-| Jurusan: | Min. SMK Jurusan Desain |
-| Jabatan: | Marketing |
-| Sektor: | Mesin / Peralatan |
-| Batas Akhir: | 30 November 2022 |
-| Jumlah yang dibutuhkan: | 1 orang |
+| Perusahaan | : PT. Mesin OSSEL Nusantara |
+| Jurusan | : Min. SMK Jurusan Desain |
+| Jabatan | : Marketing |
+| Sektor | : Mesin / Peralatan |
+| Batas Akhir | : 30 November 2022 |
+| Jumlah yang dibutuhkan | : 1 orang |
 
 ![info loker OSSEL]({{ site.baseurl }}/images/14_11_2022-09_46_50Digital Marketing Coordinator.jpg)
 
@@ -33,4 +34,4 @@ Atau melalui laman **UDINUS Career Center** [di link ini](https://cc.dinus.ac.id
 <div class="apply"><a href="https://cc.dinus.ac.id/lowongan/detail/MTIzNTI%3D">Lamar posisi ini</a></div>
 
 _Catatan:_
-* _Untuk update posisi lowongan kerja ASTRA UD Trucks dapat dicek [di link ini](https://astraudtrucks.co.id/page/karir)._
+* _Untuk update posisi lowongan kerja UDINUS Career Center dapat dicek [di link ini](https://cc.dinus.ac.id/lowongan/daftar)._
