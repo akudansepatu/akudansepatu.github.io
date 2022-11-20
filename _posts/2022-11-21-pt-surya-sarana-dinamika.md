@@ -2,7 +2,7 @@
 layout: post
 title: PT Surya Sarana Dinamika
 author: Pak Budi
-date: 2022-11-20 08:00:00 +07:00
+date: 2022-11-21 08:00:00 +07:00
 ---
 
 **PT Surya Sarana Dinamika** adalah perusahaan rekanan manufaktur yang fokus melayani kebutuhan sistem otomasi industri di Indonesia. Pengalaman lebih dari 20 tahun menjadikan PT Surya Sarana Dinamika ahli di bidang sistem otomasi (mekanik dan elektrik), modifikasi mesin, training centre, service centre, serta sebagai konsultan sistem otomasi.
@@ -15,7 +15,7 @@ Profil perusahaan selengkapnya dapat [dibaca di sini](http://www.suryasarana.com
 
 Dikutip dari laman [Alumni UGM](https://alumni.ugm.ac.id/2022/11/18/pt-surya-sarana-dinamika-7/), PT Surya Sarana Dinamika sedang membuka beberapa lowongan kerja dengan posisi sebagai berikut:
 
-## Posisi: HR Intern ##
+## Posisi: Human Resources Intern ##
 
 ![posisi hr intern]({{ site.baseurl }}/images/1-hr-intern-ssd.jpeg)
 
