@@ -53,21 +53,21 @@ Lulusan Program Relationship Officer akan diangkat langsung menjadi karyawan tet
 
 |  |  |
 |-------------|-------------|
-| * Balikpapan | * Medan |
-| * Bandar Lampung | * Padang |
-| * Banjarmasin | * Palembang |
-| * Banyuwangi | * Pangkal Pinang |
-| * Batam | * Pasuruan |
-| * Bengkulu | * Pekanbaru |
-| * Blitar | * Pontianak |
-| * Jabodetabek | * Prabumulih |
-| * Jambi | * Probolinggo |
-| * Jember | * Samarinda |
-| * Kediri | * Semarang |
-| * Kisaran | * Solo |
-| * Kubu Raya | * Surabaya |
-| * Lubuk Linggau | * Tanjung Pandan |
-| * Madiun | * Yogyakarta |
-| * Malang |  |
+| Balikpapan | Medan |
+| Bandar Lampung | Padang |
+| Banjarmasin | Palembang |
+| Banyuwangi | Pangkal Pinang |
+| Batam | Pasuruan |
+| Bengkulu | Pekanbaru |
+| Blitar | Pontianak |
+| Jabodetabek | Prabumulih |
+| Jambi | Probolinggo |
+| Jember | Samarinda |
+| Kediri | Semarang |
+| Kisaran | Solo |
+| Kubu Raya | Surabaya |
+| Lubuk Linggau | Tanjung Pandan |
+| Madiun | Yogyakarta |
+| Malang |  |
 
 <div class="apply"><a href="https://karir.bca.co.id/karir/detail/relationship-officer">Lamar posisi ini</a></div>
