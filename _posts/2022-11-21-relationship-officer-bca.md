@@ -34,7 +34,7 @@ Lulusan Program Relationship Officer akan diangkat langsung menjadi karyawan tet
 * Menyukai dunia marketing / bisnis
 * Senang menjalin relasi dengan orang lain
 * Memiliki kemampuan negosiasi yang baik
-* Mampu bekerja dibawah tekanan
+* Mampu bekerja di bawah tekanan
 * Memiliki keinginan berprestasi
 * Belum menikah dan bersedia untuk tidak menikah selama pendidikan
 * Bersedia menjalani ikatan dinas setelah pendidikan
