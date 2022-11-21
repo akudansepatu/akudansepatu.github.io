@@ -30,7 +30,7 @@ Dilansir dari laman [UDINUS Career Center](https://cc.dinus.ac.id/lowongan/detai
 | Formasi | : 2 orang |
 |  |  |
 
-![info loker Astra Prima]({{ site.baseurl }}/images/11_11_2022-13_07_15loker IT PAR.jpg)
+![info loker Astra Prima]({{ site.baseurl }}/images/11_11_2022-13_07_15loker-IT-PAR.jpg)
 
 **Cara Mendaftar:**
 
