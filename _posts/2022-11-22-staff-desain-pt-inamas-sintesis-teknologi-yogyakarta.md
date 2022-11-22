@@ -11,7 +11,7 @@ INASTEK didirikan pada tahun 2020 oleh sekelompok anak muda dari berbagai disipl
 
 ![logo INASTEK]({{ site.baseurl }}/images/logo-inastek.jpg)
 
-Berdasarkan laman [Pusat Pengembangan Karir UNY](https://ppk.lppmp.uny.ac.id/lowongan/show_landing/ODkw), PT Inamas Sintesis Teknologi (INASTEK) tengah membutuhkan 2 orang untuk posisi desain grafis. Info selengkapnya sebagai berikut:
+Berdasarkan laman [Pusat Pengembangan Karir UNY](https://ppk.lppmp.uny.ac.id/lowongan/show_landing/ODkw), PT Inamas Sintesis Teknologi (INASTEK) tengah membutuhkan 2 orang untuk posisi Staff Desain. Info selengkapnya sebagai berikut:
 
 ## Posisi: Staff Desain (Yogyakarta) ##
 
