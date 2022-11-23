@@ -7,11 +7,11 @@ date: 2022-11-23 16:00:00 +07:00
 
 **eFishery Technoplex (PT Multidaya Teknologi Nusantara)** memiliki tujuan menyediakan produk perikanan sebagai sumber utama protein hewani yang tidak hanya kaya nutrisi tetapi juga dapat diakses oleh semua kalangan.
 
-Baik Pembudidaya ikan maupun udang memiliki peran yang sangat vital dalam berkontribusi terhadap ketahanan pangan dunia. Untuk mewujudkan mimpi besar tersebut, eFishery membangun ekosistem di mana para Pembudidaya ikan dan udang dapat dengan mudah meningkatkan produktivitas, sekaligus menciptakan lingkungan yang lebih berkelanjutan, aman, dan adil bagi mereka. Dengan cara ini, eFishery dapat menyediakan produk ikan dan udang berkualitas tinggi dan kaya nutrisi yang diperoleh langsung dari Pembudidaya.
-
 ![logo eFishery]({{ site.baseurl }}/images/logo-retina-colored.png)
 
-Berdasarkan [laman resminya](https://efishery.com/job-search/?gh_jid=4058291005), eFishery sedang membuka kesempatan bergabung bagi para profesional dalam berbagai posisi, salah satunya **Corporate Development Specialist yang berkonsep kerja remote (Work From Anywhere)**. Berikut infonya:
+Baik Pembudidaya ikan maupun udang memiliki peran yang sangat vital dalam berkontribusi terhadap ketahanan pangan dunia. Untuk mewujudkan mimpi besar tersebut, eFishery membangun ekosistem di mana para Pembudidaya ikan dan udang dapat dengan mudah meningkatkan produktivitas, sekaligus menciptakan lingkungan yang lebih berkelanjutan, aman, dan adil bagi mereka. Dengan cara ini, eFishery dapat menyediakan produk ikan dan udang berkualitas tinggi dan kaya nutrisi yang diperoleh langsung dari Pembudidaya.
+
+Berdasarkan [laman resminya](https://efishery.com/job-search/?gh_jid=4058291005), eFishery sedang membuka kesempatan bergabung bagi para profesional dalam berbagai posisi, salah satunya **Corporate Development Specialist yang berkonsep _Work From Anywhere_**. Berikut infonya:
 
 ## Posisi: Corporate Development Specialist ##
 
@@ -31,8 +31,8 @@ Berdasarkan [laman resminya](https://efishery.com/job-search/?gh_jid=4058291005)
 * Good written and verbal communication skills
 
 **eFishery Technoplex (PT Multidaya Teknologi Nusantara)**
-Jl. Bukit Pakar Timur IV Kav. B1, Ciburial, Kecamatan Cimenyan, Bandung, Jawa Barat, 40198
-Website: [https://efishery.com/](https://efishery.com/)
+* Jl. Bukit Pakar Timur IV Kav. B1, Ciburial, Kecamatan Cimenyan, Bandung, Jawa Barat, 40198
+* Website: [https://efishery.com/](https://efishery.com/)
 
 <div class="apply"><a href="https://efishery.com/job-search/?gh_jid=4058291005">Lamar posisi ini</a></div>
 
