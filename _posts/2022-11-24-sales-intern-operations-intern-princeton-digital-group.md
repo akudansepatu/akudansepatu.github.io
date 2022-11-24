@@ -6,13 +6,13 @@ date: 2022-11-24 18:00:30 +07:00
 ---
 
 **Princeton Digital Group (PDG)** is a leading developer and operator of data centers in Asia Pacific with existing operations in 5 attractive high-growth markets of China, Singapore, Indonesia, India, and Japan.
- 
+
 Established in 2017, PDG was founded by Rangu Salgame and Varoon Raghavan in partnership with Warburg Pincus.
- 
+
 The PDG leadership team is made up of industry veterans from the global telecommunication, internet infrastructure, data center, and real estate sectors. Our strong platform leadership is complemented by deep in-country teams. Our unique three-pronged investment strategy of acquisition, development, and carve-outs supports our mission to bring scale with speed to market to Asia’s most dynamic regions.
- 
+
 PDG has 20 data centers in Asia Pacific in 5 countries and 14 cities. Out of these 20 data centers 10 are operational and 10 are under development.
- 
+
 **Investing in Sustainability**
 
 We at PDG believe in creating a sustainable digital future and are committed to having all of our data centers powered by renewable energy by 2030. We have four pillars of our sustainability approach:
@@ -28,7 +28,7 @@ Technology and Innovation: The engineering department focuses on technologies th
 **PDG in Indonesia**
 
 Indonesia’s internet economy is a rapidly developing market. It is predicted that by 2025 the Indonesian digital economy will be worth US$100 billion, or 40% of all consumer transactions in the country.
- 
+
 This is driven by the rise in digital native businesses and emerging tech unicorns, drawing cloud giants to increase their market footprint in Indonesia, placing the nation on the cusp of the next phase of cloud growth.
 
 We are a pan-country operator in Indonesia with five data centers across the country both on the islands of Java and Sumatra in the major cities of Jakarta, Surabaya, Bandung, and Pekanbaru. The PDG Indonesia headquarter is in Jakarta. By covering various cities from West to East of Indonesia, we provide the clients with alternate data center locations to minimize business risk.
@@ -54,9 +54,5 @@ Informasi ini berdasarkan [laman CDC Universitas Indonesia](https://cdc.ui.ac.id
 
 Kirimkan CV terbaru ke alamat email berikut:
 * [parul.bhandari@princetondg.com](mailto:parul.bhandari@princetondg.com)
-
-**Trilink Sistem Integrasi**
-* Duta Harapan Indah Blok D no. 18 Penjaringan, Jakarta Utara 11470, Indonesia
-* Website: [princetondg.com/](https://princetondg.com/)
 
 <div class="apply"><a href="mailto:parul.bhandari@princetondg.com">Lamar posisi ini</a></div>
