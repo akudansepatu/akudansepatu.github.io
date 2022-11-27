@@ -14,6 +14,7 @@ Pada tahun 1990, telah dilakukan perubahan nama menjadi PT Astra International T
 Dikutip dari laman [karir Astra.co.id](https://career.astra.co.id/lowongan), berikut info lowongan kerja yang tersedia:
 
 ## Posisi: Brand Associate ##
+
 | |
 |---|
 | Communication |
@@ -42,7 +43,7 @@ Dikutip dari laman [karir Astra.co.id](https://career.astra.co.id/lowongan), ber
 | Jl. Jenderal Sudirman Kav 5-6 Jakarta 10220, Indonesia |
 | Telepon: (021) 5084 3888 |
 | Website: https://www.astra.co.id |
-| Email: |
+Email:
 * Corporate Communications : corcomm@ai.astra.co.id
 * Corporate Investor Relations : investor@ai.astra.co.id
 
