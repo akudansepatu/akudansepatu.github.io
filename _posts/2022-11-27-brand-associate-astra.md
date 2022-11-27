@@ -43,8 +43,5 @@ Dikutip dari laman [karir Astra.co.id](https://career.astra.co.id/lowongan), ber
 | Jl. Jenderal Sudirman Kav 5-6 Jakarta 10220, Indonesia |
 | Telepon: (021) 5084 3888 |
 | Website: https://www.astra.co.id |
-Email:
-* Corporate Communications : corcomm@ai.astra.co.id
-* Corporate Investor Relations : investor@ai.astra.co.id
 
 <div class="apply"><a href="https://career.astra.co.id/lowongan/lowongan-detail-page/9194/Brand%20Associate">Lamar posisi ini</a></div>
