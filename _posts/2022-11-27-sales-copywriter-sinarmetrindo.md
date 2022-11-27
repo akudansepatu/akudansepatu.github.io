@@ -2,7 +2,7 @@
 layout: post
 title: Sales Representative & Copywriter PT Sinar Metrindo Perkasa
 author: Pak Budi
-date: 2022-11-27 07:19:00 +07:00
+date: 2022-11-27 07:09:40 +07:00
 ---
 
 **PT. Sinar Metrindo Perkasa (Simetri)** didirikan pada tahun 1986 untuk mengisi potensi pasar Switchboard berkualitas baik di Indonesia.
