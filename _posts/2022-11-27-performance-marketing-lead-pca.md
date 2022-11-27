@@ -9,6 +9,7 @@ date: 2022-11-27 17:09:00 +07:00
 
 | ![logo PCA]({{ site.baseurl }}/images/logo-powercommerce-asia.png) |
 |---|
+|  |
  
 PowerCommerce.Asia open vacancy for position:
 
