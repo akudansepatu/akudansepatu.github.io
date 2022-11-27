@@ -9,7 +9,7 @@ date: 2022-11-27 16:00:00 +07:00
 
 ![logo PAC]({{ site.baseurl }}/images/logo-pac.jpeg)
 
-Berdasarkan laman [Pusat Pengembangan Karir UNY](https://ppk.lppmp.uny.ac.id/lowongan/show_landing/ODkx), PT. Sarana Pactindo tengah membutuhkan 5 orang untuk posisi Programmer Java. Info selengkapnya sebagai berikut:
+Berdasarkan laman [Pusat Pengembangan Karir UNY](https://ppk.lppmp.uny.ac.id/lowongan/show_landing/ODkx), PT. Sarana Pactindo tengah membutuhkan 5 orang untuk posisi **Programmer Java**. Info selengkapnya sebagai berikut:
 
 ## Posisi: Programmer Java PT Sarana Pactindo ##
 
@@ -36,6 +36,6 @@ Kirimkan lamaran dan CV ke:
 Jl. Soekarno Hatta No. 269 Bandung
 * Telp. +6222 - 5229880
 * Email: info@pactindo.com
-* Website: [www.pactindo.com](https://pactindo.com)
+* Website: www.pactindo.com
 
 <div class="apply"><a href="mailto:hrd@pactindo.com">Lamar posisi ini</a></div>
