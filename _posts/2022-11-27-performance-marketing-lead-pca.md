@@ -7,7 +7,9 @@ date: 2022-11-27 17:09:00 +07:00
 
 **PowerCommerce.Asia** is the Leading Ecommerce Omnichannel Enabler and Supply Chain Technology Solution – Services Company.
  
+ 
 ![logo PCA]({{ site.baseurl }}/images/logo-powercommerce-asia.png)
+ 
  
 PowerCommerce.Asia open vacancy for position:
 
@@ -44,9 +46,9 @@ PowerCommerce.Asia open vacancy for position:
 
 Send your CV : [recruitment@powercommerce.asia](mailto:recruitment@powercommerce.asia)
 
-
-| PT. Mitra Semeru Indonesia – PowerCommerce.Asia |
+| |
 |---|
+| **PT. Mitra Semeru Indonesia – PowerCommerce.Asia** |
 | Head Office |
 | Jakarta, Indonesia |
 | Menara 165, 19th Floor |
