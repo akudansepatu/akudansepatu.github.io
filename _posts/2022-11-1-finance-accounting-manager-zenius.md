@@ -2,7 +2,7 @@
 layout: post
 title: Finance & Accounting Manager Zenius
 author: Pak Budi
-date: 2022-11-30 07:16:30 +07:00
+date: 2022-11-1 07:16:30 +07:00
 ---
 
 **Zenius Education** is the pioneer for Education Technology (EdTech) in Indonesia since 2004.
