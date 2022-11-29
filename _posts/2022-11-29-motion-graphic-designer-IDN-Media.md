@@ -61,8 +61,8 @@ Graphic Designer or in a related field
 |  |  |
 | --- | --- |
 | Tingkat Posisi | : Lulusan Baru / Junior |
-| Spesialisasi | : [Arts and Sports](https://www.kalibrr.com/id-ID/job-board/i/arts-and-sports) |
-| Pendidikan | : [Lulus program Sarjana (S1)](https://www.kalibrr.com/id-ID/job-board/e/550-bachelor's-degree-graduate) |
+| Spesialisasi | : Arts and Sports |
+| Pendidikan | : Lulus program Sarjana (S1)|
 | Industri | : Online Publishing |
 | Lowongan | : 1 orang |
 
@@ -70,6 +70,6 @@ Graphic Designer or in a related field
 | --- |
 | **IDN Media** |
 | Jl. Jend. Gatot Subroto Kav. 27 16th Floor, RT.3/RW.3, Kuningan, Kuningan Tim., Kuningan, Jakarta, Daerah Khusus Ibukota Jakarta 12950, Indonesia |
-| Website: [http://www.idn.media](http://www.idn.media/) |
+| Website: http://www.idn.media |
 
 <div class="apply"><a href="https://www.kalibrr.com/id-ID/c/idn-media/jobs/212754/motion-graphic-designer">Lamar posisi ini</a></div>
