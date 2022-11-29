@@ -36,4 +36,4 @@ Dilansir dari laman [Karir Suara Merdeka](https://www.suaramerdeka.com/karir), t
 
 Kirim lamaran dengan melampirkan data dan Curriculum Vitae (CV) dengan mengklik link di bawah ini:
 
-<div class="apply"><a href="https://www.kalibrr.com/id-ID/c/zenius-education/jobs/209500/finance-accounting-manager">Lamar posisi ini</a></div>
+<div class="apply"><a href="https://forms.gle/oS8ELiyXQCYbi77o8">Lamar posisi ini</a></div>
