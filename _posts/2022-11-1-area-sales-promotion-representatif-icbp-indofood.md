@@ -2,7 +2,7 @@
 layout: post
 title: Area Sales Promotion Representatif PT Indofood Sukses Makmur Tbk
 author: Pak Budi
-date: 2022-12-2 07:28:30 +07:00
+date: 2022-11-1 07:28:30 +07:00
 ---
 
 **PT Indofood Sukses Makmur Tbk.**, yang didirikan dengan nama PT Panganjaya Intikusuma di tahun 1990, memiliki berbagai kegiatan usaha yang telah beroperasi sejak awal tahun 1980an.
