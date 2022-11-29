@@ -2,7 +2,7 @@
 layout: post
 title: Conservation Acquisition Representative - Yogyakarta
 author: Pak Budi
-date: 2022-12-2 07:08:30 +07:00
+date: 2022-11-1 07:08:30 +07:00
 ---
 
 **Yayasan Konservasi Alam Nusantara (YKAN)** is a non-profit organization which was established in Indonesia in 2014.
