@@ -13,7 +13,7 @@ Metro TV adalah anak perusahaan dari MEDIA GROUP yang dimiliki oleh Surya Paloh,
 
 Dilansir dari laman Karir MetroTV, terdapat lowongan kerja sebagai berikut:
 
-## Posisi: Content Editor Project Based - Election 2024
+## Posisi: Content Editor (Project Based - Election 2024)
 
 ![logo metrotv]({{ site.baseurl }}/images/loker-CONTENT-EDITOR-metro-tv.jpeg)
 
@@ -21,6 +21,12 @@ Dilansir dari laman Karir MetroTV, terdapat lowongan kerja sebagai berikut:
 * Min. 3 years experience in related field.
 * Strong interest in politics issues.
 * Energetic and willing to work in flexible long hours.
-* Have ability & interest in news writing. 
+* Have ability & interest in news writing.
+
+|  |
+|---|
+| **PT Media Televisi Indonesia** |
+| Jl. Pilar Mas Raya Kav. A-D Kedoya - Kebon Jeruk, Jakarta 11520 - Indonesia |
+| Email: recruitment[at]mediagroupnetwork.com |
 
 <div class="apply"><a href="https://career.metrotvnews.com/site/detailVacant/100148">Lamar posisi ini</a></div>
