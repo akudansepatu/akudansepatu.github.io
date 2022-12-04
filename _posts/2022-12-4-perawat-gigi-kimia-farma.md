@@ -34,3 +34,7 @@ Berdasarkan laman [info loker Kimia Farma](https://rekrutmen.kimiafarma.co.id/va
 | Deadline | : 1 Januari 2023 |
 
 <div class="apply"><a href="https://rekrutmen.kimiafarma.co.id/vacancy/detail/739">Lamar posisi ini</a></div>
+
+#### Note:
+#### Waspada Penipuan!
+#### PT Kimia Farma Tbk TIDAK PERNAH memungut biaya apapun dan/atau bekerja sama dengan travel agen manapun dalam proses perekrutan. Informasi perihal pekerjaan yang tersedia di PT Kimia Farma Tbk dapat menghubungi (021) - 3847709
