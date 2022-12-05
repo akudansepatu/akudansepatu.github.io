@@ -11,7 +11,7 @@ date: 2022-12-5 07:11:30 +07:00
 
 Dengan berjalannya waktu PT Motasa Indonesia juga telah memproduksi ketumbar bubuk, kunyit bubuk, dan bumbu masak. Produk diproses secara higienis dan dengan menggunakan teknologi modern berstandar Internasional. Produk yang dihasilkan sebagai berikut: Merica Putih, Merica Hitam, Merica Putih Bubuk, Merica Hitam Bubuk, Kunyit Bubuk, Ketumbar Bubuk dan bumbu masakan.
 
-Seluruh produk PT Motasa Indonesia telah terdaftar di BPOM dan mendapatkan sertifikasi halal dari MUI. Produk LADAKU telah diekspor ke tujuh negara, yaitu Singapura, Malaysia, Brunei Darussalam, Hongkong, Taiwan, Macau, Belanda dan Saudi Arabia.
+Seluruh produk PT Motasa Indonesia telah terdaftar di BPOM dan mendapatkan sertifikasi halal dari MUI. Produk LADAKU telah diekspor ke tujuh negara, yaitu Singapura, Malaysia, Brunei Darussalam, Hongkong, Taiwan, Macau, Belanda dan Saudi Arabia. Profil selengkapnya [di sini](https://www.motasaindonesia.com/profile.php).
 
 Berdasarkan laman [Karir Motasaindonesia.com](https://karir.motasaindonesia.com/career), terdapat lowongan kerja di antaranya sebagai berikut:
 
