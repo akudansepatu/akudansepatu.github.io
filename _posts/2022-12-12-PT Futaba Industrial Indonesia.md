@@ -18,4 +18,4 @@ Berdasarkan informasi di laman [Alumni UGM](https://alumni.ugm.ac.id/2022/12/12/
 
 ![loker futaba]({{ site.baseurl }}/images/loker-futaba.jpg)
 
-<div class="apply"><a href="mailto:hrd@futabaindonesia.co.id?cc=murih@futabaindonesia.co.id&Subject= CORPORATE%20PLANNING%20-%20NAMA%20ANDA">">Lamar posisi ini</a></div>
+<div class="apply"><a href="mailto:hrd@futabaindonesia.co.id?cc=murih@futabaindonesia.co.id&Subject= CORPORATE%20PLANNING%20-%20NAMA%20ANDA">Lamar posisi ini</a></div>
