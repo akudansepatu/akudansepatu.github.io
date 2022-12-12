@@ -5,7 +5,7 @@ author: Pak Budi
 date: 2022-12-12 07:06:51 +07:00
 ---
 
-**AS Student Service was established in 1994, in Sydney, Australia, and currently has branch offices in Medan, BSD City, Yogyakarta, and Jakarta.
+**AS Student Service** was established in 1994, in Sydney, Australia, and currently has branch offices in Medan, BSD City, Yogyakarta, and Jakarta.
 ![logo as student]({{ site.baseurl }}/images/asstudent-logo-biru.png)
 
 Our story begins with a dream to serve and help Indonesian and International students prepare their study plans in the country they want. AS Student Service is committed to providing accurate information, helping students enroll in their favorite schools / universities, visa arrangements, accommodation and airport pick-up.
