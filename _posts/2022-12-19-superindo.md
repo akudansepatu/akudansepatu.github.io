@@ -2,7 +2,7 @@
 layout: post
 title: Super Indo
 author: Pak Budi
-date: 2022-12-20 07:16:51 +07:00
+date: 2022-12-19 11:26:51 +07:00
 ---
 
 **Super Indo** tumbuh dan berkembang bersama masyarakat Indonesia melalui kemitraan antara Salim Group, Indonesia dan Ahold Delhaize, Belanda sejak tahun 1997.
