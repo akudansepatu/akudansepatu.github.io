@@ -2,7 +2,7 @@
 layout: post
 title: PT Nippon Indosari Corpindo Tbk
 author: Pak Budi
-date: 2022-12-20 07:16:51 +07:00
+date: 2022-12-19 11:16:51 +07:00
 ---
 
 **PT Nippon Indosari Corpindo Tbk** merupakan produsen roti massal yang pertama dan terbesar di Indonesia.
