@@ -2,7 +2,7 @@
 layout: post
 title: PT Ameya Livingstyle Indonesia
 author: Pak Budi
-date: 2022-12-23 07:06:51 +07:00
+date: 2022-12-21 15:30:51 +07:00
 ---
 
 **PT Ameya Livingstyle Indonesia** was founded in the city of Yogyakarta, Indonesia. The word “Ameya” is taken from Japanese language which means “Bountiful”.
