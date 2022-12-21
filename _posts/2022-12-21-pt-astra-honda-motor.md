@@ -2,7 +2,7 @@
 layout: post
 title: PT Astra Honda Motor (AHM)
 author: Pak Budi
-date: 2022-12-22 07:06:51 +07:00
+date: 2022-12-21 11:06:51 +07:00
 ---
 
 **PT Astra Honda Motor (AHM)** merupakan pelopor industri sepeda motor di Indonesia. Didirikan pada 11 Juni 1971 dengan nama awal PT Federal Motor.
