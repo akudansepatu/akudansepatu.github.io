@@ -54,4 +54,4 @@ Berdasarkan informasi di laman [Alumni UGM](https://alumni.ugm.ac.id/2022/12/19/
 
 ![]({{ site.baseurl }}/images/11-cmi-VIDEO-EDITOR.jpg)
 
-<div class="apply"><a href="https://bit.ly/VideoEditorCMI">Lamar posisi ini</a></div>
+<div class="apply"><a href="https://cmihospital.com/id/karir/karir-video-editor">Lamar posisi ini</a></div>
