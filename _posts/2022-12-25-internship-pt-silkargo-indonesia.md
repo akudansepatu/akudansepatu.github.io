@@ -15,7 +15,7 @@ Berdasarkan informasi di laman [Career Development Center Universitas Indonesia]
 ![loker samudera]({{ site.baseurl }}/images/Poster-Silkargo-Indonesia-22-Des_page-0001-724x1024.jpg)
 
 If you’re interested, please read the Job Description & Requirements on the poster attached and apply through the email mentioned,
- 
+
 Thank you!
 
 <div class="apply"><a href="mailto:nindya.prasetyamurti@samudera.id">Lamar posisi ini</a></div>
