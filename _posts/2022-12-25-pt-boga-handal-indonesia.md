@@ -217,4 +217,4 @@ Berdasarkan informasi di laman [Karir Bohan](https://www.bohan.id/index.php/cate
 
 Jika Anda tertarik, silakan kirimkan CV lengkap Anda melalui email ke hr@bohan.id dengan subjek: Nama_Posisi yang dilamar.
 
-<div class="apply"><a href="mailto:hr@bohan.id?subject:Nama_Posisi yang dilamar">Lamar posisi ini</a></div>
+<div class="apply"><a href="mailto:hr@bohan.id?subject=Nama_Posisi yang dilamar">Lamar posisi ini</a></div>
