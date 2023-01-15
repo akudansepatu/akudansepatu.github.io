@@ -30,11 +30,23 @@ We're looking for you as our Videographer and Video Editor!
 
 **Responsibilities:**
 
-- Working with the marketing team to create a promotional video for social media and digital ads.Coordination of making videos start from pre-production, production, until post production.Operate the camera, sound, and all supporting tools for video creation.Making videos that will be broadcast on youtube and create strategies that can increase views and interest from visitorsIdentify video market trendsOptimizing time spent for viewer on Youtube
+- Working with the marketing team to create a promotional video for social media and digital ads.
+- Coordination of making videos start from pre-production, production, until post production.
+- Operate the camera, sound, and all supporting tools for video creation.
+- Making videos that will be broadcast on youtube and create strategies that can increase views and interest from visitors
+- Identify video market trends
+- Optimizing time spent for viewer on Youtube
 
 **Requirement:**
 
-- Bachelor's degree in Film Studies, Cinematography, or Design and Visual CommunicationsProven work experience as a videographer & Video Editor minimum 2 yearsLive in JabodetabekMust be proficient in video editing software such as Adobe Premiere/Final Cut Pro/Davinci Resolve, Adobe After Effects, Adobe Audition.Understand lighting techniques and shooting support toolsHaving ability in graphic and motion designAlways up to date with the video trends relate to the industryHave in depth knowledge about Youtube and its creators
+- Bachelor's degree in Film Studies, Cinematography, or Design and Visual Communications
+- Proven work experience as a videographer & Video Editor minimum 2 years
+- Live in Jabodetabek
+- Must be proficient in video editing software such as Adobe Premiere/Final Cut Pro/Davinci Resolve, Adobe After Effects, Adobe Audition.
+- Understand lighting techniques and shooting support tools
+- Having ability in graphic and motion design
+- Always up to date with the video trends relate to the industry
+- Have in depth knowledge about Youtube and its creators
 
 <div class="apply"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeikhpH5qLyzlWs-9gL5cK-ASHRMcLMvnJCYIgcPYbns-P-Bg/viewform">Lamar posisi ini</a></div>
 
