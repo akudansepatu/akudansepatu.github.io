@@ -20,18 +20,18 @@ Berdasarkan informasi di laman [Alumni UGM](https://alumni.ugm.ac.id/2023/01/20/
 
 # 1. ACADEMIC LEADERSHIP OPPORTUNITIES
 
-![loker sph]({{ site.baseurl }}/images/Academic-Leadership-1536x1536.png)
+![loker sph]({{ site.baseurl }}/images/Academic-Leadership-1536x1536-(1).png)
 
 <div class="apply"><a href="https://sph.edu/id/karier/peluang-pekerjaan/">Lamar posisi ini</a></div>
 
 # 2. STAFF OPPORTUNITIES
 
-![loker sph]({{ site.baseurl }}/images/Staff-1536x1536.png)
+![loker sph]({{ site.baseurl }}/images/Staff-1536x1536-(1).png)
 
 <div class="apply"><a href="https://sph.edu/id/karier/peluang-pekerjaan/">Lamar posisi ini</a></div>
 
 # 3. TEACHING OPPORTUNITIES
 
-![loker sph]({{ site.baseurl }}/images/Teaching-1536x1536.png)
+![loker sph]({{ site.baseurl }}/images/Teaching-1536x1536-(1).png)
 
 <div class="apply"><a href="https://sph.edu/id/karier/peluang-pekerjaan/">Lamar posisi ini</a></div>
