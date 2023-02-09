@@ -22,10 +22,10 @@ Berdasarkan informasi di laman [Alumni UGM](https://alumni.ugm.ac.id/2023/01/31/
 
 ![loker Idemitsu]({{ site.baseurl }}/images/20230201_-_PT_Idemitsu_Lube_Techno_Indonesia_UGM-0.png)
 
-<div class="apply"><a href="mailto:rudi.hermanto.1060@idemitsu.com+nurwita.novitasari.0470@idemitsu.com?subject=REC - Accounting Junior Staff">Lamar posisi ini</a></div>
+<div class="apply"><a href="mailto:rudi.hermanto.1060@idemitsu.com,nurwita.novitasari.0470@idemitsu.com?subject=REC - Accounting Junior Staff">Lamar posisi ini</a></div>
 
 # 2. Tax Junior Staff
 
 ![loker Idemitsu]({{ site.baseurl }}/images/20230201_-_PT_Idemitsu_Lube_Techno_Indonesia_UGM-1.png)
 
-<div class="apply"><a href="mailto:rudi.hermanto.1060@idemitsu.com+nurwita.novitasari.0470@idemitsu.com?subject=Tax Junior Staff">Lamar posisi ini</a></div>
+<div class="apply"><a href="mailto:rudi.hermanto.1060@idemitsu.com,nurwita.novitasari.0470@idemitsu.com?subject=Tax Junior Staff">Lamar posisi ini</a></div>
